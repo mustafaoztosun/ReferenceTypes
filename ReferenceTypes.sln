@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceTypes", "Reference
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors", "Constructors\Constructors.csproj", "{897D0654-9651-4CDB-A925-6DDB209D04B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{A749B37C-7B4D-441A-AD8C-8BFB51C4D19A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{897D0654-9651-4CDB-A925-6DDB209D04B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{897D0654-9651-4CDB-A925-6DDB209D04B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{897D0654-9651-4CDB-A925-6DDB209D04B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A749B37C-7B4D-441A-AD8C-8BFB51C4D19A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A749B37C-7B4D-441A-AD8C-8BFB51C4D19A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A749B37C-7B4D-441A-AD8C-8BFB51C4D19A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A749B37C-7B4D-441A-AD8C-8BFB51C4D19A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
